@@ -4,7 +4,7 @@ html {
   height: 100%;
   margin: 0;
   padding: 0;
-  background: url("/images/wallhaven-dgeqoj.jpg") center no-repeat;
+  /* background: url("/images/wallhaven-dgeqoj.jpg") 20% 20% no-repeat; */
 }
 
 body {
@@ -22,6 +22,20 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+p {
   margin: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
 }
