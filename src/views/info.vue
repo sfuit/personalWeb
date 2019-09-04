@@ -1,5 +1,7 @@
 <template>
-  <div>345</div>
+  <div style="display:flex;justify-content:center">
+    <p>information-page</p>
+  </div>
 </template>
 <script>
 export default {
